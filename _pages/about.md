@@ -1,7 +1,8 @@
 ---
 title: "About"
 permalink: /about/
-
+header:
+  image: "/images/gh-bannner-light.jpg"
 ---
 
 # [<img src="https://raw.githubusercontent.com/vaibhavhariaramani/blogs/master/images/gh-bannner-light.jpg">](https://github.com/vaibhavhariaramani/The-Vaibhav-Hariramani-App/raw/master/vaibhav%20hariramani%20app.apk) 
