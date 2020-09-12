@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name"
+title                    : "Vaibhav's Blog"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "Data Science Portfolio"
+name                     : "Vaibhav Hariramani"
+description              : "A site for Machine Learning Tutorials and Articles"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,36 +84,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Vaibhav Hariramani"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
-  location         : "Your Location"
-  email            :
+  bio              : "Hi There wave, I'm Vaibhav Hariramani!. I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development."
+  location         : "Jaipur,Rajasthan"
+  email            : "vaibhav.hariramani01@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "jayesh.hariramani.3"
   foursquare       :
-  github           : "Your Github"
+  github           : "vaibhavhariaramani"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "geeky_bawa_"
   lastfm           :
-  linkedin         : "dataoptimal" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "vaibhav-hariramani-087488186" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "vaibhavhariram2"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UCy7amUpLnsRLEMIaJGGBYog" # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
