@@ -281,11 +281,18 @@ compress_html:
     envs: development
 
 # Collections
+# Collections
 collections:
   MachineLearning:
     output: true
     permalink: /:collection/:path/
   ComputerVision:
+    output: true
+    permalink: /:collection/:path/
+  WebDevelopment:
+    output: true
+    permalink: /:collection/:path/
+  AppDevelopment:
     output: true
     permalink: /:collection/:path/
 
