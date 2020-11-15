@@ -44,10 +44,7 @@ header:
   <img width="250" align='left' src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/hacktoberfest.png">
 </p>
  
-### Boy Scout Rule
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  
-
+###  My other Blog
  ---
  <p>
   <a href="https://sites.google.com/view/geeky-traveller/home"><img width="400" align='right' src="https://github.com/vaibhavhariaramani/blogs/blob/master/images/image.jpg"></a>

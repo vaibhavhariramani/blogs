@@ -1,0 +1,4 @@
+commands to run this blog
+i) bundle install
+ii) bundle update
+iii) bundle exec jekyll serve
