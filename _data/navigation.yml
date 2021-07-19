@@ -8,8 +8,8 @@ main:
     url: /ComputerVision/
   - title: "Web Development"
     url: /WebDevelopment/
-  - title: "App Development"
-    url: /AppDevelopment/
+  - title: "Flutter"
+    url: /Flutter/
   - title: "Portfolio"
     url: https://vaibhavhariaramani.github.io/
   - title: 'Posts'
@@ -21,7 +21,7 @@ main:
   - title: 'Search'
     url: '/search'
   - title: "Collections"
-    url: /collection-archive/
+    url: /collection-archive-grid/
   
 
 # sidebar navigation list sample

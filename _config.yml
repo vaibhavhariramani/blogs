@@ -292,7 +292,7 @@ collections:
   WebDevelopment:
     output: true
     permalink: /:collection/:path/
-  AppDevelopment:
+  Flutter:
     output: true
     permalink: /:collection/:path/
 
@@ -306,7 +306,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
 
@@ -343,7 +343,7 @@ defaults:
       author_profile: true
       share: true
       read_time: true
-      comments: # true
+      comments: true
       related: true
   # _ComputerVision
   - scope:
@@ -354,7 +354,7 @@ defaults:
       author_profile: true
       share: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
   # _WebDevelopment
@@ -366,17 +366,17 @@ defaults:
       author_profile: true
       share: true
       read_time: true
-      comments: # true
+      comments: true
       related: true
-  # _AppDevelopment
+  # _Flutter
   - scope:
       path: ""
-      type: AppDevelopment
+      type: Flutter
     values:
       layout: single
       author_profile: true
       share: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true

@@ -1,6 +1,6 @@
 ---
 title: "Our YouTube Video"
-category: machinelearning
+category: extra
 tags:
   - machinelearning
 ---
