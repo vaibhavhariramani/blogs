@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Vaibhav Hariramani"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi There wave, I'm Vaibhav Hariramani!. I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development."
+  bio              : "Hi There 👋, I'm Vaibhav Hariramani!. I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development."
   location         : "Jaipur,Rajasthan"
   email            : "vaibhav.hariramani01@gmail.com"
   links:
