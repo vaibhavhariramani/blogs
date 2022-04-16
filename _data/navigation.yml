@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Machine Learning"
     url: /MachineLearning/
+  - title: "Deep Learning"
+    url: /DeepLearning/
   - title: "Computer Vision"
     url: /ComputerVision/
   - title: "Web Development"

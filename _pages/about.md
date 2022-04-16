@@ -2,7 +2,12 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/gh-bannner-light.jpg"
+  overlay_color: "#000"
+  overlay_filter: overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
+  overlay_image: "/images/gh-bannner-light.jpg"
+  actions:
+    - label: "Download 'THE VAIBHAV HARIRAMANI APP'"
+      url: "https://play.google.com/store/apps/details?id=com.geeky.developer"
 ---
 
 # [<img src="https://raw.githubusercontent.com/vaibhavhariaramani/blogs/master/images/gh-bannner-light.jpg">](https://play.google.com/store/apps/details?id=com.geeky.developer) 

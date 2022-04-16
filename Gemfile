@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-ruby "2.7.3"
+# ruby "2.7.3"
 # gem "jekyll", "~> 3.8.5"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -29,3 +29,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
 end
+
+gem "webrick", "~> 1.7"

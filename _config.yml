@@ -286,6 +286,9 @@ collections:
   MachineLearning:
     output: true
     permalink: /:collection/:path/
+  DeepLearning:
+    output: true
+    permalink: /:collection/:path/
   ComputerVision:
     output: true
     permalink: /:collection/:path/
@@ -304,6 +307,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -340,6 +344,19 @@ defaults:
       type: MachineLearning
     values:
       layout: single
+      classes: wide
+      author_profile: true
+      share: true
+      read_time: true
+      comments: true
+      related: true
+  # _DeepLearning
+  - scope:
+      path: ""
+      type: DeepLearning
+    values:
+      layout: single
+      classes: wide
       author_profile: true
       share: true
       read_time: true
