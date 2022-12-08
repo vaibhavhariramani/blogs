@@ -1,4 +1,4 @@
-# [<img src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/gh-bannner-light.png">](https://play.google.com/store/apps/details?id=com.geeky.developer) 
+# [<img src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/gh-bannner-light.png">](https://play.google.com/store/apps/details?id=com.geeky.developer) 
 <p align='center'>
 <a href="https://www.linkedin.com/in/vaibhav-hariramani-087488186/"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/vaibhavhariram2"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
@@ -8,7 +8,7 @@
 <a href="mailto:vaibhav.hariramani01@gmail.com"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/email.png"></a>&nbsp;&nbsp;
 </p>
 
-# [My personal data science blog](https://vaibhavhariaramani.github.io/blogs/)
+# [My personal data science blog](https://vaibhavhariramani.github.io/blogs/)
 
 ## Hi There 👋, I'm **Vaibhav Hariramani!**. 
 #### I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development. 
@@ -184,7 +184,7 @@ I am a Machine Learning enthusiast, an Actions on Google, Internet of things, Al
 I have a keen interest in Image processing and Andriod development.
 I am Currently studying at  Chandigarh University, Punjab.
 
-[My PortFolio](https://vaibhavhariaramani.github.io/)
+[My PortFolio](https://vaibhavhariramani.github.io/)
 You can find me at:-
 [Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) or [Github](https://github.com/vaibhavhariaramani) .
 
