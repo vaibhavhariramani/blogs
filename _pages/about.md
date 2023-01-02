@@ -15,12 +15,12 @@ header:
 
 ## Hi There 👋, I'm **Vaibhav Hariramani!**. 
 <!-- <p align='center'> -->
-<a href="https://www.linkedin.com/in/vaibhav-hariramani-087488186/"><img  height="30" src="/images/linkedin.png" width="20"></a>&nbsp;&nbsp;
+<!-- <a href="https://www.linkedin.com/in/vaibhav-hariramani-087488186/"><img  height="30" src="/images/linkedin.png" width="20"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/vaibhavhariram2"><img height="30" width="20" src="/images/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/vaibhav.hariramani/?hl=en"><img height="30" width="20" src="/images/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/vaibhavJii"><img height="30" width="20" src="/images/by-me-a-coffee.png"></a>
 <a href="https://wa.me/+917790991077"><img height="30" width="20" src="/images/whatsapp.png"></a>&nbsp;&nbsp;
-<a href="mailto:vaibhav.hariramani01@gmail.com"><img height="30" width="20" src="/images/email.png"></a>&nbsp;&nbsp;
+<a href="mailto:vaibhav.hariramani01@gmail.com"><img height="30" width="20" src="/images/email.png"></a>&nbsp;&nbsp; -->
 <!-- </p> -->
 #### I create blog posts and open source projects mainly about Machine Learning, Computer Vision and App Development. 
 
@@ -46,12 +46,12 @@ header:
 <img width="200" src="https://github.com/vaibhavhariramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu1.png?raw=true"> 
 <img width="200"  src="https://github.com/vaibhavhariramani/The-Vaibhav-Hariramani-App/blob/master/version2.0/menu.png?raw=true">
 <img width="200" src="https://github.com/vaibhavhariramani/The-Vaibhav-Hariramani-App/raw/master/version2.0/shimla.png"> 
-<img width="200" src="https://github.com/vaibhavhariramani/The-Vaibhav-Hariramani-App/raw/master/version2.0/Cv.png">
+<!-- <img width="200" src="https://github.com/vaibhavhariramani/The-Vaibhav-Hariramani-App/raw/master/version2.0/Cv.png"> -->
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p>
+<!-- <p>
   <img width="250" align='left' src="https://github.com/vaibhavhariramani/vaibhavhariramani/blob/master/icon/hacktoberfest.png?raw=true">
-</p>
+</p> -->
  
 ###  My other Blog
  ---
