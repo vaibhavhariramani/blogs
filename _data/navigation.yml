@@ -1,9 +1,11 @@
 # main links links
 main:
   - title: "About"
-    url: /about/
+    url: '/about/'
   - title: "Machine Learning"
     url: /MachineLearning/
+  - title: "Deep Learning"
+    url: /DeepLearning/
   - title: "Computer Vision"
     url: /ComputerVision/
   - title: "Web Development"
@@ -11,7 +13,7 @@ main:
   - title: "Flutter"
     url: /Flutter/
   - title: "Portfolio"
-    url: https://vaibhavhariaramani.github.io/
+    url: https://vaibhavhariramani.github.io/
   - title: 'Posts'
     url: /posts/
   - title: 'Categories'

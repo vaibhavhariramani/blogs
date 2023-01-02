@@ -6,11 +6,11 @@ header:
   teaser: /assets/images/computer_vision/face-detect.png
 sidebar:
   - title: "About the Author"
-    image: https://vaibhavhariaramani.github.io/blogs/images/bio-pic-2.jpg
+    image: https://vaibhavhariramani.github.io/blogs/images/bio-pic-2.jpg
     image_alt: "logo"
     text: "I am a Machine Learning enthausiast by profession and a Blogger by passion. I have been working on machine learning projects for more than 2 years."
   - title: "Other Blogs"
-    text: " [Here](https://vaibhavhariaramani.github.io/blogs/) you will find articles on “Machine Learning, Statistics, Deep Learning, NLP and Artificial Intelligence”."
+    text: " [Here](https://vaibhavhariramani.github.io/blogs/) you will find articles on “Machine Learning, Statistics, Deep Learning, NLP and Artificial Intelligence”."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -31,27 +31,27 @@ In [previous blog](https://medium.com/geeky-bawa/face-identification-using-haar-
 
 # **PREREQUISITES**
 
-> 1.) Download [*haarcascade\_frontalface\_default.xml*](https://github.com/vaibhavhariaramani/Computer-Vision-Tutorial/blob/main/Haarcascades/haarcascade_frontalface_default.xml) *\[from repo link given below\]*
+> 1.) Download [*haarcascade\_frontalface\_default.xml*](https://github.com/vaibhavhariramani/Computer-Vision-Tutorial/blob/main/Haarcascades/haarcascade_frontalface_default.xml) *\[from repo link given below\]*
 
 ## 2.) pip install opencv-python
 
-[link to github Repo of my Computer Vision Tutorial](https://github.com/vaibhavhariaramani/Computer-Vision-Tutorial/archive/main.zip)
+[link to github Repo of my Computer Vision Tutorial](https://github.com/vaibhavhariramani/Computer-Vision-Tutorial/archive/main.zip)
 
 
 
-## vaibhavhariaramani/FaceDetection
+## vaibhavhariramani/FaceDetection
 
 ### Face detection is a computer vision technology that helps to locate/visualize human faces in digital images. This…
 
-[github.com](https://github.com/vaibhavhariaramani/FaceDetection)
+[github.com](https://github.com/vaibhavhariramani/FaceDetection)
 
 
 
-## vaibhavhariaramani/Computer-Vision-Tutorial
+## vaibhavhariramani/Computer-Vision-Tutorial
 
 ### You can't perform that action at this time. You signed in with another tab or window. You signed out in another tab or…
 
-[github.com](https://github.com/vaibhavhariaramani/Computer-Vision-Tutorial)
+[github.com](https://github.com/vaibhavhariramani/Computer-Vision-Tutorial)
 
 # I.) CODE with explanation
 
@@ -68,7 +68,7 @@ The second step simply is to locate the pre-trained weights(cascade file). We wi
 python3.7/site-packages/cv2/data
 ```
 
-otherwise you can get all cascade files from our repo [here:](https://github.com/vaibhavhariaramani/Computer-Vision-Tutorial/tree/main/Haarcascades)
+otherwise you can get all cascade files from our repo [here:](https://github.com/vaibhavhariramani/Computer-Vision-Tutorial/tree/main/Haarcascades)
 
 Once identified, we’ll declare Cascade classifiers this way :
 
@@ -219,7 +219,7 @@ cv2.destroyAllWindows()
 
 # I.5. Wrapping it up
 
-<script src="https://gist.github.com/vaibhavhariaramani/1332ec1242139614592c6a5a47462584.js"></script>
+<script src="https://gist.github.com/vaibhavhariramani/1332ec1242139614592c6a5a47462584.js"></script>
 
 
 # I.6. Results
@@ -249,7 +249,7 @@ I will made a quick [YouTube](https://www.youtube.com/watch?v=ONB8NLMiY30)[](htt
 
 ### A site for Machine Learning Tutorials and Articles
 
-[vaibhavhariaramani.github.io](https://vaibhavhariaramani.github.io/blogs/)
+[vaibhavhariramani.github.io](https://vaibhavhariramani.github.io/blogs/)
 
 # Do Checkout My Youtube channel
 
@@ -275,12 +275,12 @@ I will made a quick [YouTube](https://www.youtube.com/watch?v=ONB8NLMiY30)[](htt
 *   *Follow me on* [*Kaggle*](https://www.kaggle.com/vaibhavhariramani) *for more content!*
 *   *Let’s connect on* [*LinkedIn*](https://www.linkedin.com/in/vaibhav-hariramani-087488186/)
 *   [*Interested in collaborating?*](https://api.whatsapp.com/send?phone=+917790991077&text=Hi,%20I%20contacted%20you%20Through%20your%20website.) 
-*   *Check out my* [*website*](https://vaibhavhariaramani.github.io/)*.*
+*   *Check out my* [*website*](https://vaibhavhariramani.github.io/)*.*
 *   *Check out my* [*website*](https://sites.google.com/view/geeky-traveller/home)*.*
 
 ### Don't forget to tag us
 
-if you use this repo in  your project don't forget to mention us as Contributer in it . And Don't forget to tag us [Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/),[ instagram](https://www.instagram.com/geeky_baba_/?hl=en),[ facebook](https://www.facebook.com/jayesh.hariramani.3) ,[ twitter](https://www.linkedin.com/in/vaibhav-hariramani-087488186/), [ Github](https://github.com/vaibhavhariaramani) 
+if you use this repo in  your project don't forget to mention us as Contributer in it . And Don't forget to tag us [Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/),[ instagram](https://www.instagram.com/geeky_baba_/?hl=en),[ facebook](https://www.facebook.com/jayesh.hariramani.3) ,[ twitter](https://www.linkedin.com/in/vaibhav-hariramani-087488186/), [ Github](https://github.com/vaibhavhariramani) 
 
 
 # More Resources 
@@ -289,7 +289,7 @@ To learn more about these Resources you can Refer to some of these articles writ
 
 - [Medium](https://medium.com/geeky-bawa)
 - [geeky Traveller](https://sites.google.com/view/geeky-traveller/)
-- [Blogs](https://github.com/vaibhavhariaramani/blogs)
+- [Blogs](https://github.com/vaibhavhariramani/blogs)
 - [Youtube](https://www.youtube.com/channel/UCy7amUpLnsRLEMIaJGGBYog)[![Youtube Badge](https://img.shields.io/badge/-Geeky_Bawa-1ca0f1?style=flat-circle&labelColor=d54b3d&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCy7amUpLnsRLEMIaJGGBYog)](https://www.youtube.com/channel/UCy7amUpLnsRLEMIaJGGBYog)
 - Email: [vaibhav.hariramani01@gmail.com](mailto:vaibhav.hariramani01@gmail.com)
 
@@ -305,7 +305,7 @@ Download [THE VAIBHAV HARIRAMANI APP](https://play.google.com/store/apps/details
 
 ### Follow me
   
-[![Linkedin Badge](https://img.shields.io/badge/-VaibhavHariramani-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-hariramani-087488186/)](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) [![Instagram Badge](https://img.shields.io/badge/-VaibhavHariramani-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/vaibhav.hariramani/?hl=en)](https://www.instagram.com/vaibhav.hariramani/?hl=en) [![Twitter Badge](https://img.shields.io/badge/-VaibhavHariramani-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vaibhavhariram2)](https://twitter.com/vaibhavhariram2) [![GitHub Badge](https://img.shields.io/badge/-@Vaibhavhariaramani-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/vaibhavhariaramani)](https://github.com/vaibhavhariaramani) [![Gmail Badge](https://img.shields.io/badge/-VaibhavHariramani-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:vaibhav.hariramani01@gmail.com)](mailto:vaibhav.hariramani01@gmail.com) [![Medium Badge](https://img.shields.io/badge/-VaibhavHariramani-d54b3d?style=flat-circle&labelColor=d54b3d&logo=medium&logoColor=white&link=https://medium.com/geeky-bawa)](https://medium.com/geeky-bawa) 
+[![Linkedin Badge](https://img.shields.io/badge/-VaibhavHariramani-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-hariramani-087488186/)](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) [![Instagram Badge](https://img.shields.io/badge/-VaibhavHariramani-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/vaibhav.hariramani/?hl=en)](https://www.instagram.com/vaibhav.hariramani/?hl=en) [![Twitter Badge](https://img.shields.io/badge/-VaibhavHariramani-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vaibhavhariram2)](https://twitter.com/vaibhavhariram2) [![GitHub Badge](https://img.shields.io/badge/-@vaibhavhariramani-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/vaibhavhariramani)](https://github.com/vaibhavhariramani) [![Gmail Badge](https://img.shields.io/badge/-VaibhavHariramani-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:vaibhav.hariramani01@gmail.com)](mailto:vaibhav.hariramani01@gmail.com) [![Medium Badge](https://img.shields.io/badge/-VaibhavHariramani-d54b3d?style=flat-circle&labelColor=d54b3d&logo=medium&logoColor=white&link=https://medium.com/geeky-bawa)](https://medium.com/geeky-bawa) 
 
 Happy coding ❤️ .
   

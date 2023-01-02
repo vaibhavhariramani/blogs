@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Vaibhav Hariramani"
 description              : "A site for Machine Learning Tutorials and Articles"
-url                      : # the base hostname & protocol for your site e.g. "https://vaibhavhariaramani.github.io/"
+url                      : # the base hostname & protocol for your site e.g. "https://vaibhavhariramani.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # /assets/images/vaibhav-avatar.jpg
@@ -113,19 +113,19 @@ author:
       url: "https://www.facebook.com/jayesh.hariramani.3"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/vaibhavhariaramani"
+      url: "https://github.com/vaibhavhariramani"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/geeky_bawa_/"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/vaibhav-hariramani-087488186"
+      url: "https://www.linkedin.com/in/vaibhav-hariramani"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@vaibhav.hariramani01"
     - label: "youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCy7amUpLnsRLEMIaJGGBYog"
+      url: "https://www.youtube.com/@geekybawa"
     
 
 # Site Footer
@@ -139,13 +139,13 @@ footer:
       url: "https://www.facebook.com/jayesh.hariramani.3"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/vaibhavhariaramani"
+      url: "https://github.com/vaibhavhariramani"
     - label: "youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/channel/UCy7amUpLnsRLEMIaJGGBYog"
+      url: "https://www.youtube.com/@geekybawa"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/vaibhav-hariramani-087488186"
+      url: "https://www.linkedin.com/in/vaibhav-hariramani"
     - label: "Medium"
       icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@vaibhav.hariramani01"
@@ -158,6 +158,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _static
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -286,6 +287,9 @@ collections:
   MachineLearning:
     output: true
     permalink: /:collection/:path/
+  DeepLearning:
+    output: true
+    permalink: /:collection/:path/
   ComputerVision:
     output: true
     permalink: /:collection/:path/
@@ -304,6 +308,7 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: true
@@ -340,6 +345,19 @@ defaults:
       type: MachineLearning
     values:
       layout: single
+      classes: wide
+      author_profile: true
+      share: true
+      read_time: true
+      comments: true
+      related: true
+  # _DeepLearning
+  - scope:
+      path: ""
+      type: DeepLearning
+    values:
+      layout: single
+      classes: wide
       author_profile: true
       share: true
       read_time: true

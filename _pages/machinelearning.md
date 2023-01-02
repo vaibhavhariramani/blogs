@@ -4,5 +4,7 @@ layout: collection
 permalink: /MachineLearning/
 collection: MachineLearning
 entries_layout: grid
-classes: wide
+classes:
+ - wide
+ - dark-theme
 ---
