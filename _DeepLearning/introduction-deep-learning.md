@@ -6,9 +6,9 @@ header:
   teaser: images/deep_learning/Deep-Learning.jpg
 sidebar:
   - title: "Role"
-    text: "Designer, Front-End Developer"
+    text: "MlOps Engineer,Open Source Contributor"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Building scalable and reliable infrastructure for ML model training and deployment."
 gallery2:
   - url: images/deep_learning/2.jpg
     image_path: images/deep_learning/2.jpg
