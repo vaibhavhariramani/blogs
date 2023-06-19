@@ -161,7 +161,7 @@ To test the theme, run `bundle exec rake preview` and open your browser at `http
 
 The MIT License (MIT)
 
-Copyright (c) 2013-2018 Michael Rose and contributors
+Copyright (c) 2018-2023 Vaibhav Hariramani and contributors
 
 # Resources 
 
