@@ -1,3 +1,8 @@
+You will have to install ruby first. Because bundler gem dependents on ruby.
+
+Windows - If you are using windows machine you can use devkit to install ruby and dependencies. 
+Download from here http://rubyinstaller.org/downloads/
+
 commands to run this blog
 i) bundle install
 ii) bundle update
