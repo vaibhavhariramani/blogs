@@ -23,13 +23,19 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
+dl-image:
+  - url: /images/deep_learning/dp1.png
+    image_path: /images/deep_learning/dp1.png
+    alt: "placeholder image 1"
 ---
 
 ## What is Deep Learning?
-Deep Learning is a subfield of machine learning domain. Deep learning is entirely concerned with algorithms inspired by the structure and function of artificial neural networks which are inspired by the human brain (inspired only pls). Deep learning is used with too much ease to predict the unpredictable. In our opinion “We all are so busy in creating artificial intelligence by using a combination of non-bio neural networks and natural intelligence rather than exploring what we have in hand.
+Deep Learning is like going on an exciting adventure through the world of artificial intelligence. It's a special type of machine learning that draws inspiration from the incredible human brain. Just like our brains have networks of neurons, Deep Learning uses algorithms to create artificial neural networks.
+
+These networks are magical because they can learn and predict things that seem impossible. Imagine a machine that can understand speech, recognize images, and even understand human language. That's what Deep Learning can do!
 
 <!-- <img src="images/deep_learning/2.jpg"> -->
-{% include gallery id="gallery2" caption="" %}
+{% include gallery id="dl-image" caption="" %}
 
 **In other words, Deep Learning is an approach to learning where we can make a machine imitate the network of neurons in a human brain. It consists of algorithms which allow machines to train to perform tasks like speech, image recognition and Natural Language Processing. It is a statistical approach based on Deep Networks, where we break down a task and distribute into machine learning algorithms.** 
 
