@@ -8,22 +8,29 @@ main:
     url: /DeepLearning/
   - title: "Computer Vision"
     url: /ComputerVision/
-  - title: "Web Development"
-    url: /WebDevelopment/
+  - title: "Cloud Computing"
+    url: /CloudComputing/
   - title: "Flutter"
     url: /Flutter/
+  - title: "Web Development"
+    url: /WebDevelopment/
   - title: "Portfolio"
     url: https://vaibhavhariramani.github.io/
-  - title: 'Posts'
-    url: /posts/
-  - title: 'Categories'
-    url: '/categories'
-  - title: 'Tags'
-    url: '/tags'
-  - title: 'Search'
-    url: '/search'
+  # - title: 'Posts'
+  #   url: /posts/
+  # - title: 'Categories'
+  #   url: '/categories'
   - title: "Collections"
     url: /collection-archive-grid/
+  - title: 'Search'
+    url: '/search'
+  - title: 'Tags'
+    url: '/tags'
+  - title: 'Medium Blogs'
+    url: 'https://medium.com/@vaibhavji'
+  - title: 'Youtube Tutorials'
+    url: 'https://www.youtube.com/@geekybawa'
+  
   
 
 # sidebar navigation list sample

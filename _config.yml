@@ -293,10 +293,13 @@ collections:
   ComputerVision:
     output: true
     permalink: /:collection/:path/
-  WebDevelopment:
+  Flutter:
     output: true
     permalink: /:collection/:path/
-  Flutter:
+  CloudComputing:
+    output: true
+    permalink: /:collection/:path/
+  WebDevelopment:
     output: true
     permalink: /:collection/:path/
 
@@ -375,17 +378,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _WebDevelopment
-  - scope:
-      path: ""
-      type: WebDevelopment
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      read_time: true
-      comments: true
-      related: true
   # _Flutter
   - scope:
       path: ""
@@ -397,4 +389,26 @@ defaults:
       read_time: true
       comments: true
       share: true
+      related: true
+  # _CloudComputing
+  - scope:
+      path: ""
+      type: CloudComputing
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+      comments: true
+      related: true
+  # _WebDevelopment
+  - scope:
+      path: ""
+      type: WebDevelopment
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+      comments: true
       related: true

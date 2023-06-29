@@ -1,18 +1,16 @@
 ---
-title: "Unleashing the Magic of Deep Learning"
-excerpt: "Chronicles of Deep Learning."
+title: "Under-Construction"
+excerpt: "Under-Construction"
 header:
-  # image: images/deep_learning/dp2.png
-  teaser: images/deep_learning/3.jpg
+  image: /assets/images/unsplash-gallery-image-3.jpg
+  teaser: assets/images/unsplash-gallery-image-3-th.jpg
 sidebar:
-  - title: "Role"
-    text: "MlOps Engineer,Open Source Contributor"
-  - title: "Responsibilities"
-    text: "Building scalable and reliable infrastructure for ML model training and deployment."
-gallery2:
-  - url: images/deep_learning/2.jpg
-    image_path: images/deep_learning/2.jpg
-    alt: "placeholder image 1"
+  - title: "About the Author"
+    image: https://vaibhavhariramani.github.io/blogs/images/bio-pic-2.jpg
+    image_alt: "logo"
+    text: "I am a Machine Learning enthausiast by profession and a Blogger by passion. I have been working on machine learning projects for more than 2 years."
+  - title: "Other Blogs"
+    text: " [Here](https://vaibhavhariramani.github.io/blogs/) you will find articles on “Machine Learning, Statistics, Deep Learning, NLP and Artificial Intelligence”."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -20,27 +18,13 @@ gallery:
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-  - url: /images/deep_learning/computer-vision-abstract-1.png
-    image_path: /images/deep_learning/computer-vision-abstract-1.png
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
-dl-image:
-  - url: /images/deep_learning/dp2.png
-    image_path: /images/deep_learning/dp2.png
-    alt: "placeholder image 1"
 ---
-{% include gallery id="dl-image" caption="" %}
-## Overview of Our Deep Learning Blog Series
 
-Welcome to our Deep Learning Blog series, where we embark on an extraordinary journey into the realm of artificial intelligence and unlock the secrets of Deep Learning. In this captivating series, we will delve into various topics that will unravel the magic behind this incredible field. Get ready to explore the following exciting adventures:
-
-* **Intro to Deep Learning:** In this blog, we introduced the enchanting world of Deep Learning, its connection to artificial neural networks, and the amazing things it can do. If you haven't read it yet, we invite you to check it out here to get started on this thrilling adventure!
-
-* **M.P. Neuron:** In our next blog, we will dive deep into the concept of M.P. Neuron. Prepare to unravel the workings of this fundamental building block of artificial neural networks. Stay tuned for an exciting exploration of M.P. Neuron, where we'll understand its structure, functionality, and how it contributes to decision-making. Get ready to be amazed! (Link to M.P. Neuron blog: here)
-
-* **Coming Soon:** We have a treasure trove of captivating topics waiting to be explored in the upcoming blogs of our Deep Learning series. From activation functions to convolutional neural networks, recurrent neural networks, generative adversarial networks, and much more, we will leave no stone unturned in our quest to unveil the wonders of Deep Learning. Join us on this exhilarating journey!
-
-Stay tuned for more updates and let the magic of Deep Learning ignite your curiosity and expand your understanding of artificial intelligence.
-
+Under-Construction
+<iframe width="1191" height="670" src="https://www.youtube.com/embed/HsH_-zP4vfQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Made with ❤️by Vaibhav Hariramani
 
