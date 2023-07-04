@@ -33,7 +33,7 @@ dl-image:
 
 Welcome to our Deep Learning Blog series, where we embark on an extraordinary journey into the realm of artificial intelligence and unlock the secrets of Deep Learning. In this captivating series, we will delve into various topics that will unravel the magic behind this incredible field. Get ready to explore the following exciting adventures:
 
-* **Intro to Deep Learning:** In this blog, we introduced the enchanting world of Deep Learning, its connection to artificial neural networks, and the amazing things it can do. If you haven't read it yet, we invite you to check it out here to get started on this thrilling adventure!
+* [**Intro to Deep Learning:**](/DeepLearning/introduction-deep-learning/) In this blog, we introduced the enchanting world of Deep Learning, its connection to artificial neural networks, and the amazing things it can do. If you haven't read it yet, we invite you to check it out here to get started on this thrilling adventure!
 
 * **M.P. Neuron:** In our next blog, we will dive deep into the concept of M.P. Neuron. Prepare to unravel the workings of this fundamental building block of artificial neural networks. Stay tuned for an exciting exploration of M.P. Neuron, where we'll understand its structure, functionality, and how it contributes to decision-making. Get ready to be amazed! (Link to M.P. Neuron blog: here)
 
@@ -44,7 +44,7 @@ Stay tuned for more updates and let the magic of Deep Learning ignite your curio
 
 # Made with ❤️by Vaibhav Hariramani
 
-*   *If you enjoyed this,* [*follow me on Medium*](https://medium.com/@vaibhav.hariramani01) *for more*
+*   *If you enjoyed this,* [*follow me on Medium*](https://medium.com/@vaibhavji) *for more*
 *   *Follow me on* [*Kaggle*](https://www.kaggle.com/vaibhavhariramani) *for more content!*
 *   *Let’s connect on* [*LinkedIn*](https://www.linkedin.com/in/vaibhav-hariramani-087488186/)
 *   [*Interested in collaborating?*](https://api.whatsapp.com/send?phone=+917790991077&text=Hi,%20I%20contacted%20you%20Through%20your%20website.) 

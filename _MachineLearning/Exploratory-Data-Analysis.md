@@ -178,7 +178,7 @@ get_dummies is the method that creates a dummy variable for each categorical var
 
 # Made with ❤️by Vaibhav Hariramani
 
-*   *If you enjoyed this,* [*follow me on Medium*](https://medium.com/@vaibhav.hariramani01) *for more*
+*   *If you enjoyed this,* [*follow me on Medium*](https://medium.com/@vaibhavji) *for more*
 *   *Follow me on* [*Kaggle*](https://www.kaggle.com/vaibhavhariramani) *for more content!*
 *   *Let’s connect on* [*LinkedIn*](https://www.linkedin.com/in/vaibhav-hariramani-087488186/)
 *   [*Interested in collaborating?*](https://api.whatsapp.com/send?phone=+917790991077&text=Hi,%20I%20contacted%20you%20Through%20your%20website.) 
