@@ -1,9 +1,9 @@
 ---
-title: "Docker"
-excerpt: "What is Docker and why it is used?"
+title: "Cloudy Adventures"
+excerpt: "Discover the Magic of Cloud Computing!"
 header:
-  image: /assets/images/unsplash-gallery-image-3.jpg
-  teaser: images/cloud_computing/docker_teaser.png
+  image: images/cloud_computing/cc_header1.png
+  teaser: images/cloud_computing/cc_teaser1.png
 sidebar:
   - title: "About the Author"
     image: https://vaibhavhariramani.github.io/blogs/images/bio-pic-2.jpg
@@ -23,8 +23,32 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Under-Construction
-<iframe width="1191" height="670" src="https://www.youtube.com/embed/HsH_-zP4vfQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# Welcome to the Cloud Computing Blog!
+
+Get ready for an amazing adventure into the world of cloud computing! Imagine a magical place where computers can talk to each other and work together to do incredible things. That's what cloud computing is all about!
+
+We will explore different topics to help you understand how this magic works:
+
+* **Cloud Friends :** Meet IaaS, PaaS, and SaaS, the three cloud friends who help us with computer stuff. They make it easier for us to use cool programs and play games without worrying about where they live.
+
+* **Virtual Playgrounds :** Did you know that computers can pretend to be other computers? They wear a special costume called virtualization and have fun playing games and doing important jobs together.
+
+* **Docker's Adventure :** Join Docker, a friendly container, as it travels from one place to another, carrying important things inside. It helps programs move easily between different computers without getting confused.
+
+* **The Cloud King :** Have you heard about the Cloud King? His name is Kubernetes, and he makes sure all the computers in the cloud work well together. He's like a superhero that organizes everything.
+
+* **Big Data Magic :** Sometimes, there's so much information that regular computers can't handle it all. But don't worry, we have Hadoop, a big data superhero who knows how to handle even the biggest puzzles.
+
+* **Spark's Sparkle :** Meet Spark, a shiny and fast friend who helps us do amazing things with big data. It's like a big brain that can think really quickly and help us find hidden patterns.
+
+* **Cloud Friends' Homes :** We'll also visit different cloud homes like AWS, GCP, and Azure. They have lots of computers and special powers to make sure our programs run smoothly and quickly.
+
+* **Security Heroes :** In the cloud, we have security heroes who protect our important things. They wear special shields and use secret codes to make sure everything is safe.
+
+* **Mobile Cloud Fun :** Have you ever wanted to play games or watch videos on your phone? With mobile cloud computing, we can do all that and more! Our phones can talk to the cloud and bring us cool things to play with.
+
+*Are you excited? Click on the links above to explore each topic and discover amazing things about cloud computing. Let's embark on this magical journey together!*
+
 
 # Made with ❤️by Vaibhav Hariramani
 
