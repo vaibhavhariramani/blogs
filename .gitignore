@@ -21,6 +21,15 @@ codekit-config.json
 # macOS
 .DS_Store
 
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Editor / AI assistant local state
+.claude/
+.vscode/
+.idea/
+
 # Jekyll generated files
 .jekyll-cache
 .jekyll-metadata

@@ -302,6 +302,9 @@ collections:
   WebDevelopment:
     output: true
     permalink: /:collection/:path/
+  React:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -407,6 +410,18 @@ defaults:
       type: WebDevelopment
     values:
       layout: single
+      author_profile: true
+      share: true
+      read_time: true
+      comments: true
+      related: true
+  # _React
+  - scope:
+      path: ""
+      type: React
+    values:
+      layout: single
+      classes: wide
       author_profile: true
       share: true
       read_time: true

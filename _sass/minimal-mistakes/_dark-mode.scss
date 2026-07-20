@@ -1,0 +1,140 @@
+/* ==========================================================================
+   DARK MODE
+   Runtime-toggleable dark theme via html[data-theme="dark"].
+   Mirrors the built-in "dark" skin's palette but applies at runtime instead
+   of compile time, so it can be flipped with a button + persisted in
+   localStorage rather than baked into the build.
+   ========================================================================== */
+
+$dm-background: #1b1e27 !default;
+$dm-text: #e7e7ea !default;
+$dm-primary: #4fd1c5 !default;
+$dm-border: mix(#fff, $dm-background, 18%) !default;
+$dm-code-background: mix(#000, $dm-background, 18%) !default;
+$dm-form-background: mix(#000, $dm-background, 12%) !default;
+$dm-footer-background: mix(#000, $dm-background, 40%) !default;
+$dm-muted-text: mix(#000, $dm-text, 30%) !default;
+$dm-link: mix($dm-primary, $dm-text, 45%) !default;
+$dm-link-hover: mix(#fff, $dm-link, 25%) !default;
+$dm-link-visited: mix(#000, $dm-link, 20%) !default;
+
+html[data-theme="dark"] {
+  background-color: $dm-background;
+  color: $dm-text;
+
+  body {
+    color: $dm-text;
+  }
+
+  a {
+    color: $dm-link;
+
+    &:visited {
+      color: $dm-link-visited;
+    }
+
+    &:hover {
+      color: $dm-link-hover;
+    }
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: $dm-text;
+  }
+
+  hr,
+  table th,
+  table td,
+  .archive__subtitle,
+  .nav__sub-title,
+  .page__share + .pagination,
+  .page__comments + .pagination {
+    border-color: $dm-border;
+  }
+
+  .masthead {
+    border-bottom-color: $dm-border;
+  }
+
+  .greedy-nav {
+    background: $dm-background;
+
+    a {
+      color: $dm-text;
+
+      &:hover {
+        color: $dm-primary;
+      }
+    }
+
+    .hidden-links {
+      background: $dm-background;
+      border-color: $dm-border;
+    }
+  }
+
+  .site-title,
+  .site-subtitle {
+    color: $dm-text;
+  }
+
+  .sidebar,
+  .toc {
+    background-color: $dm-background;
+    border-color: $dm-border;
+    color: $dm-muted-text;
+  }
+
+  .author__avatar img {
+    border-color: $dm-border;
+  }
+
+  .page__footer {
+    background-color: $dm-footer-background;
+    color: $dm-muted-text;
+
+    a {
+      color: $dm-muted-text;
+
+      &:hover {
+        color: $dm-primary;
+      }
+    }
+  }
+
+  input,
+  textarea,
+  select,
+  .search-content {
+    background-color: $dm-form-background;
+    color: $dm-text;
+    border-color: $dm-border;
+  }
+
+  ::placeholder {
+    color: mix(#000, $dm-text, 40%);
+  }
+
+  .theme-toggle {
+    border-color: $dm-border;
+    color: $dm-text;
+
+    .theme-toggle__icon--sun {
+      display: none;
+    }
+
+    .theme-toggle__icon--moon {
+      display: inline-block;
+    }
+
+    &:hover {
+      color: $dm-primary;
+      border-color: $dm-primary;
+    }
+  }
+}

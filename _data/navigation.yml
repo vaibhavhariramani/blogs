@@ -12,6 +12,8 @@ main:
     url: /CloudComputing/
   - title: "Flutter"
     url: /Flutter/
+  - title: "React"
+    url: /React/
   - title: "Web Development"
     url: /WebDevelopment/
   - title: "Portfolio"
