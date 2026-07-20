@@ -9,10 +9,10 @@ header:
 ---
 
 <ul>
-{% for post in site.categories.news %}
+{% for post in site.posts %}
   <li>
-   <a href="">{{post.title }}</a>
-   <p>{{news.meta}}</p>
+   <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+   <p>{{ post.excerpt }}</p>
   </li>
 {% endfor %}
 </ul>
