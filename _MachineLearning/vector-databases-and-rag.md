@@ -15,6 +15,8 @@ sidebar:
 
 Large Language Models are excellent at fluent text generation but they only "know" what was baked into their training data, and they will confidently generate plausible-sounding but false statements — a problem known as **hallucination**. Retrieval-Augmented Generation (RAG), built on top of **vector databases**, is the most widely used technique to fix this: instead of relying purely on the model's memorized knowledge, you retrieve relevant facts from your own data at query time and hand them to the LLM as context.
 
+This post focuses on the practical, tooling side of RAG — embeddings, vector search, and building a pipeline end to end. For the architecture underneath it (retriever/generator design, why grounding reduces hallucination), see [Retrieval-Augmented Generation](/DeepLearning/retrieval-augmented-generation/) in our Deep Learning section.
+
 ## Embeddings: Turning Meaning Into Numbers
 
 An **embedding** is a numerical vector (typically a few hundred to a few thousand floating-point numbers) that represents the *meaning* of a piece of text, image, or other data. Embedding models are trained so that semantically similar inputs end up close together in this vector space, and dissimilar inputs end up far apart.
